@@ -2,7 +2,7 @@
 
 ## pour installer le biniou
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 ## lancer le fichier  dans jupyter 
 jupyter-lab
